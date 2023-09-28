@@ -3,7 +3,7 @@
 We are releasing our dataset regarding Portrait-Mode Video Recognition research. The videos are sourced from [Douyin platform](https://www.douyin.com). We distribute video content through the provision of links. Users are responsible for downloading the videos independently. 
 
 ## Dataset
-We provide links to ur videos in `video_links.csv`.
+We provide links to our videos in `video_links.csv`.
 
 ## Usage
 For each of the links, you can download the video by using `requests` package. We also provide demo code in `download_videos.py`, where you will need to replace `target_dir` with your actual storage directory. The failed video links will be dumped in `fail_cases.csv` and you can use it for retry attempts.
