@@ -6,7 +6,7 @@ We are releasing our dataset regarding Portrait-Mode Video Recognition research.
 We provide links to ur videos in `video_links.csv`.
 
 ## Usage
-For each of the links, you can download the video by using `requests` package. We also provide demo code in `download_videos.py`, where you will need to replace `target_dir` with your actual storage directory. 
+For each of the links, you can download the video by using `requests` package. We also provide demo code in `download_videos.py`, where you will need to replace `target_dir` with your actual storage directory. The failed video links will be dumped in `fail_cases.csv` and you can use it for retry attempts.
 ```ruby
 import requests
 import os
