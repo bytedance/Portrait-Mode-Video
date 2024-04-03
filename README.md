@@ -7,6 +7,9 @@
 
 We are releasing our code and dataset regarding Portrait-Mode Video Recognition research. The videos are sourced from [Douyin platform](https://www.douyin.com). We distribute video content through the provision of links. Users are responsible for downloading the videos independently. 
 
+## Taxonomy
+Please check our released taxonomy [here](./data/class_name_mapping.csv). There is also an interactive demo of the taxonomy [here](https://mingfei.info/PMV/PMV_400_taxonomy.html).
+
 ## Usage
 We assume two directories for this project. `{CODE_DIR}` for the code respository; `{PROJ_DIR}` for the model logs, checkpoints and dataset. 
 
