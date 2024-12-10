@@ -7,6 +7,13 @@
 
 We are releasing our code and dataset regarding Portrait-Mode Video Recognition research. The videos are sourced from [Douyin platform](https://www.douyin.com). We distribute video content through the provision of links. Users are responsible for downloading the videos independently. 
 
+## Videos
+The high-quality videos are filtered by humans, with human activities across wide-spread categories.
+
+🚀🚀 Thanks for the support from the community. Please check the issue [here](https://github.com/bytedance/Portrait-Mode-Video/issues/7) for cached videos on [OneDrive](https://1drv.ms/f/c/8d9d5fbede2ace9d/Ep3OKt6-X50ggI2MAAAAAAABV0VlHe1CPMEbHIJ1ytZYZA?e=d1LJkF). 
+
+🚀🚀 Please check the annotation at `Uniformer/data_list/PMV/` and text description of the categories at `data/class_name_mapping.csv`
+
 ## Taxonomy
 Please check our released taxonomy [here](./data/class_name_mapping.csv). There is also an interactive demo of the taxonomy [here](https://mingfei.info/PMV/PMV_400_taxonomy.html).
 
